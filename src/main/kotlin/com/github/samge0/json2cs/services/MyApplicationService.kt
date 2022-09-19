@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.samge0.json2cs.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.samge0.json2cs.MyBundle
 
 class MyApplicationService {
 

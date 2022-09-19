@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.samge0.json2cs
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
